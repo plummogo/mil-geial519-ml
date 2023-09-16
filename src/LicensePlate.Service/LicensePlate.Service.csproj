@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LicensePlate.Domain\LicensePlate.Domain.csproj" />
+    <ProjectReference Include="..\LicensePlate.Repository\LicensePlate.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

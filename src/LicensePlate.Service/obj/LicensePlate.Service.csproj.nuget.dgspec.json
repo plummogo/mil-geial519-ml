@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\mil-geial519_517-ml\\src\\LicensePlate.Service\\LicensePlate.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj",
+        "projectName": "LicensePlate.Domain",
+        "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj",
+        "packagesPath": "C:\\Users\\plm\\.nuget\\packages\\",
+        "outputPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\mil-geial519_517-ml\\NuGet.Config",
+          "C:\\Users\\plm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\LicensePlate.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\LicensePlate.Repository.csproj",
+        "projectName": "LicensePlate.Repository",
+        "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\LicensePlate.Repository.csproj",
+        "packagesPath": "C:\\Users\\plm\\.nuget\\packages\\",
+        "outputPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\mil-geial519_517-ml\\NuGet.Config",
+          "C:\\Users\\plm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj": {
+                "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\mil-geial519_517-ml\\src\\LicensePlate.Service\\LicensePlate.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Service\\LicensePlate.Service.csproj",
+        "projectName": "LicensePlate.Service",
+        "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Service\\LicensePlate.Service.csproj",
+        "packagesPath": "C:\\Users\\plm\\.nuget\\packages\\",
+        "outputPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\mil-geial519_517-ml\\NuGet.Config",
+          "C:\\Users\\plm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj": {
+                "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Domain\\LicensePlate.Domain.csproj"
+              },
+              "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\LicensePlate.Repository.csproj": {
+                "projectPath": "D:\\mil-geial519_517-ml\\src\\LicensePlate.Repository\\LicensePlate.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

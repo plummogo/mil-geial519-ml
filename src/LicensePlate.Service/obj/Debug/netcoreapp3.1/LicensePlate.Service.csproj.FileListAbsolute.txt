@@ -1,0 +1,14 @@
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Service.deps.json
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Service.dll
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Service.pdb
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Domain.dll
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Domain.pdb
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.csproj.AssemblyReference.cache
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.AssemblyInfoInputs.cache
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.AssemblyInfo.cs
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.csproj.CoreCompileInputs.cache
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.csproj.CopyComplete
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.dll
+D:\mil-geial519_517-ml\src\LicensePlate.Service\obj\Debug\netcoreapp3.1\LicensePlate.Service.pdb
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Repository.dll
+D:\mil-geial519_517-ml\src\LicensePlate.Service\bin\Debug\netcoreapp3.1\LicensePlate.Repository.pdb
